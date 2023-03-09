@@ -1,0 +1,15 @@
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.AssemblyInfo.cs
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\bin\Debug\net6.0\MessingAroundWithEncryption.exe
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\bin\Debug\net6.0\MessingAroundWithEncryption.deps.json
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\bin\Debug\net6.0\MessingAroundWithEncryption.runtimeconfig.json
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\bin\Debug\net6.0\MessingAroundWithEncryption.dll
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\bin\Debug\net6.0\MessingAroundWithEncryption.pdb
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.dll
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\refint\MessingAroundWithEncryption.dll
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.pdb
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\MessingAroundWithEncryption.genruntimeconfig.cache
+C:\Users\adamk\source\repos\MessingAroundWithEncryption\MessingAroundWithEncryption\obj\Debug\net6.0\ref\MessingAroundWithEncryption.dll
