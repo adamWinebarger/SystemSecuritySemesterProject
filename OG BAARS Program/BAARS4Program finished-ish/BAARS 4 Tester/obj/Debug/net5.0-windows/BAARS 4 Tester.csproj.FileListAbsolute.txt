@@ -1,0 +1,197 @@
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.exe
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.deps.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.dev.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\FireSharp.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Extensions.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Primitives.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterAnswers.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterInfoWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\TestWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.lref
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterAnswers.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterInfoWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\TestWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.g.resources
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfoInputs.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfo.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CopyComplete
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.genruntimeconfig.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program-trablebranch2\BAARS4Program-trablebranch2\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.exe
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.deps.json
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.json
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.dev.json
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\FireSharp.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Extensions.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Primitives.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterAnswers.g.cs
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterInfoWindow.g.cs
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TestWindow.g.cs
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.cache
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.lref
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterAnswers.baml
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterInfoWindow.baml
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TestWindow.baml
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.g.resources
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfo.cs
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\andre\source\repos\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.genruntimeconfig.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.exe
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.deps.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.dev.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\FireSharp.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Extensions.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Primitives.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterAnswers.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterInfoWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TestWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.lref
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterAnswers.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TesterInfoWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\TestWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.g.resources
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfoInputs.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfo.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CopyComplete
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.genruntimeconfig.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\PTInfoWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\PTQuickScoreWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\PTInfoWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\PTQuickScoreWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.AssemblyReference.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\OtherTestSelectionWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program 12.6\BAARS4Program 12.3\BAARS 4 Tester\obj\Debug\net5.0-windows\OtherTestSelectionWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.exe
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.deps.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.dev.json
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\FireSharp.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Extensions.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Primitives.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.AssemblyReference.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\OtherTestSelectionWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTInfoWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTQuickScoreWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterAnswers.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterInfoWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TestWindow.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.lref
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\OtherTestSelectionWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTInfoWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTQuickScoreWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterAnswers.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterInfoWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TestWindow.baml
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.g.resources
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfoInputs.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfo.cs
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CopyComplete
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\ref\BAARS 4 Tester.dll
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\Documents\College Stuff\Fall 2021\Intro to Software Engineering\BAARS4Program\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.genruntimeconfig.cache
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.exe
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.deps.json
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.json
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.runtimeconfig.dev.json
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\FireSharp.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Extensions.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\System.Net.Http.Primitives.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\OtherTestSelectionWindow.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTInfoWindow.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTQuickScoreWindow.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterAnswers.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterInfoWindow.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TestWindow.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.cache
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester_MarkupCompile.lref
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\OtherTestSelectionWindow.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTInfoWindow.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Other Tests\PTQuickScoreWindow.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterAnswers.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TesterInfoWindow.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\Views for Tester Test\TestWindow.baml
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.g.resources
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.AssemblyInfo.cs
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.csproj.CopyComplete
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\refint\BAARS 4 Tester.dll
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.pdb
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\BAARS 4 Tester.genruntimeconfig.cache
+C:\Users\adamk\source\repos\BAARS4Program finished-ish\BAARS 4 Tester\obj\Debug\net5.0-windows\ref\BAARS 4 Tester.dll

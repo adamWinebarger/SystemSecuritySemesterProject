@@ -1,0 +1,22 @@
+﻿<Window x:Class="BAARS_4_Tester.TestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BAARS_4_Tester"
+        mc:Ignorable="d"
+        Title="TestWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <RadioButton x:Name="radioButton1" Content="Never or Rarely" HorizontalAlignment="Left" Margin="123,258,0,0" VerticalAlignment="Top" Tag="1"/>
+        <RadioButton x:Name="radioButton2" Content="Sometimes" HorizontalAlignment="Left" Margin="280,258,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton3" Content="Often" HorizontalAlignment="Left" Margin="477,258,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton4" Content="Very Often" HorizontalAlignment="Left" Margin="620,258,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Center" Margin="0,357,0,0" VerticalAlignment="Top" Width="56" Click="NextButton_Click"/>
+        <Button x:Name="backButton" Content="Back" HorizontalAlignment="Left" Margin="264,357,0,0" VerticalAlignment="Top" Width="60" Click="BackButton_Click"/>
+        <Button x:Name="submitButton" Content="Finish/Submit" HorizontalAlignment="Left" Margin="477,357,0,0" VerticalAlignment="Top" Width="82" Click="SubmitButton_Click"/>
+        <TextBlock x:Name="questionLabel" HorizontalAlignment="Center" Margin="0,45,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="125" Width="462" TextAlignment="Center"/>
+        <ComboBox x:Name="multiBackComboBox" HorizontalAlignment="Left" Margin="620,77,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="multiBackComboBox_SelectionChanged"/>
+        <Label Content="Jump to Question..." HorizontalAlignment="Left" Margin="618,48,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
