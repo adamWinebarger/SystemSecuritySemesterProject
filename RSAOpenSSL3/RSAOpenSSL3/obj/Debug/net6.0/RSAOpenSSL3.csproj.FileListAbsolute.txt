@@ -1,0 +1,15 @@
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\bin\Debug\net6.0\RSAOpenSSL3.exe
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\bin\Debug\net6.0\RSAOpenSSL3.deps.json
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\bin\Debug\net6.0\RSAOpenSSL3.runtimeconfig.json
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\bin\Debug\net6.0\RSAOpenSSL3.dll
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\bin\Debug\net6.0\RSAOpenSSL3.pdb
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.AssemblyInfo.cs
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.dll
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\refint\RSAOpenSSL3.dll
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.pdb
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\RSAOpenSSL3.genruntimeconfig.cache
+C:\Users\adamk\source\repos\RSAOpenSSL3\RSAOpenSSL3\obj\Debug\net6.0\ref\RSAOpenSSL3.dll

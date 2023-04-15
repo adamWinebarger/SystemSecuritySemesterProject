@@ -1,0 +1,15 @@
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\bin\Debug\net6.0\HashCreator1.exe
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\bin\Debug\net6.0\HashCreator1.deps.json
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\bin\Debug\net6.0\HashCreator1.runtimeconfig.json
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\bin\Debug\net6.0\HashCreator1.dll
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\bin\Debug\net6.0\HashCreator1.pdb
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.AssemblyInfo.cs
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.dll
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\refint\HashCreator1.dll
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.pdb
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\HashCreator1.genruntimeconfig.cache
+C:\Users\adamk\source\repos\HashCreator1\HashCreator1\obj\Debug\net6.0\ref\HashCreator1.dll

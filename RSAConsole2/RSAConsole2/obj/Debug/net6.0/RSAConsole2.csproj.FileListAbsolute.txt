@@ -1,0 +1,15 @@
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\bin\Debug\net6.0\RSAConsole2.exe
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\bin\Debug\net6.0\RSAConsole2.deps.json
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\bin\Debug\net6.0\RSAConsole2.runtimeconfig.json
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\bin\Debug\net6.0\RSAConsole2.dll
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\bin\Debug\net6.0\RSAConsole2.pdb
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.AssemblyInfo.cs
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.dll
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\refint\RSAConsole2.dll
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.pdb
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\RSAConsole2.genruntimeconfig.cache
+C:\Users\adamk\source\repos\RSAConsole2\RSAConsole2\obj\Debug\net6.0\ref\RSAConsole2.dll
