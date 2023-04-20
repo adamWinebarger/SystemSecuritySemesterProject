@@ -19,3 +19,13 @@ There isn't really much to say about the RSA text encryptor since my idea worked
 # How to use
 
 Since this program was built using WPF, this is pretty much exclusively a Windows program. But in both cases, if you click the folders of the program names (there should be ~3 layers of folders of the name of the program), then \bin\debug\net[version]windows there is an will be an executable within that folder that will launch the program (assuming you have the correct version of .NET installed). From there, as long as the file titled privKey.pem is on a detachable media (in drives D thru J), then the program will be able to decrypt the contents of the textfiles (if it's the BAARS tester) or the strings stored in memory of the RSA text encryptor. It will, however, not decrypt anything if there is not that pem file on a detachable drive or if the key value is incorrect. 
+
+If you are looking to change the key values, you will need to delete all of the directories within \bin\debug\net5.0windows\Tester_Profiles or it will attempt to decrypt them with the wrong key. From there, you will need to add a Sha256 hash to \bin\debug\net5.0windows\Key\privkeyhash.txt generated with the hash generator included within this git repo and the pem conetents to \bin\debug\net5.0windows\Key\pubkey.pem and then the private key values to the privkey.pem file stored on your detachable media. 
+
+For changing keys on the RSA text encryptor, the steps are relatively the same, though there is nothing to delete and the hash text file is \bin\debug\net6.0windows
+
+# What I would like to do next
+
+Since this is not the most efficient way to encrypt things - and kind of underkill AND overkill for encrypting textfiles with sensitive patient information, there are a few things I would like to do with this in the futre:
+
+In order to provide multi-key support, I think it would be a good idea to include a hash of the public key used to encrypt tester data within that tester's directory. This way, the program could have multi-key support and a way to differentiate between what key was used to encrypt and which key should be used to decrypt the contents of a given tester directory. In addition, I think that the encryption scheme could be handled a few different ways: either using EC w/ Diffie-Hellman to encrypt and decrypt everything, or by using an asymmetric scheme to encrypt an AES key, the decrypted version of which would be used for the actual encryption/decryption of tester information
