@@ -1,0 +1,31 @@
+﻿<Window x:Name="Main_Window" x:Class="BAARS_4_Tester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BAARS_4_Tester"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="815" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Label Content=" BAARS-IV Scoring Program" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.442,0.048" FontSize="30" Width="800" FontWeight="Bold" Grid.RowSpan="2" Background="#FFDDDDDD" Height="51"/>
+        <Button x:Name="TakeTestButton" Content="New Tester" HorizontalAlignment="Left" Margin="134,64,0,0" VerticalAlignment="Top" Height="46" Width="115" Click="TakeTestButton_Click"/>
+        <Button x:Name="QuickScoreButton" Content="Two \nLines" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Height="46" Width="112" Click="QuickScoreButton_Click"/>
+        <DataGrid x:Name="Table" Margin="10,149,10,10" Width="780" RowHeight="20" HorizontalAlignment="Stretch"  MinColumnWidth="40" Background="LightGray" RowBackground="#FFDDDDDD" AlternatingRowBackground="#FFFFFFFF" IsReadOnly="True" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserResizeRows="False" CanUserSortColumns="False" AutoGeneratingColumn="Table_AutoGenerateColumn">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridRow}">
+                    <EventSetter Event="Control.MouseDoubleClick" Handler="Table_MouseDoubleClick"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <TextBox x:Name="SearchBox" HorizontalAlignment="Left" Height="19" Margin="10,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="239" TextChanged="SearchBox_TextChanged" Background="White"/>
+        <CheckBox x:Name="lastNameCheckBox" Content="Last Name" HorizontalAlignment="Left" Margin="618,122,0,0" VerticalAlignment="Top" Checked="LastName_Checked"/>
+        <CheckBox x:Name="firstNameCheckBox" Content="First Name" HorizontalAlignment="Left" Margin="413,122,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.21,-0.593" Checked="FirstName_Checked"/>
+        <CheckBox x:Name="middleNameCheckBox" Content="Middle Name" HorizontalAlignment="Left" Margin="507,122,0,0" VerticalAlignment="Top" Checked="MiddleName_Checked" RenderTransformOrigin="0.572,0.157"/>
+        <Button x:Name="RefreshButton" Content="Refresh" HorizontalAlignment="Left" Margin="730,95,0,0" VerticalAlignment="Top" Click="RefreshButton_Click" Height="20" Width="60"/>
+        <Button x:Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" Margin="730,121,0,0" VerticalAlignment="Top" Click="DeleteButton_Click" Height="20" Width="60" RenderTransformOrigin="0.589,-0.065"/>
+        <Button x:Name="ToggleAdvancedSearchButton" Content="Advanced Search Options" HorizontalAlignment="Left" Margin="259,120,0,0" VerticalAlignment="Top" Click="ToggleAdvancedSearchButton_Click_1" Width="142"/>
+        <Button x:Name="showResultsButton" Content="Show Results" HorizontalAlignment="Left" Margin="259,64,0,0" VerticalAlignment="Top" Height="46" Width="100" Click="showResultsButton_Click"/>
+
+
+    </Grid>
+</Window>

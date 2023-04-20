@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views for Other Tests\OtherTestSelectionWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views for Other Tests\PTInfoWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views for Other Tests\PTQuickScoreWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views for Other Tests\OtherTestSelectionWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views for Other Tests\PTInfoWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views for Other Tests\PTQuickScoreWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
